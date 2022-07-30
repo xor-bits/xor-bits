@@ -4,5 +4,4 @@
 
 ### dev todos:
  - SPV raytracer (with srs2dge)
- - bytecode language (minimal dependencies)
  - another LLVM language
