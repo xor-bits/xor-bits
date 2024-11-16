@@ -4,3 +4,8 @@ I like to code stuff
  - [ion](https://github.com/xor-bits/ion), game script lang
  - [srs2dge](https://github.com/xor-bits/srs2dge), a game engine that I am planning to rewrite
  - some WGPU projects that aren't public
+
+My favourite languages:
+
+ - Rust
+ - Zig
