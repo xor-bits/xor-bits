@@ -7,4 +7,5 @@ I like to code stuff
  - [srs2dge](https://github.com/xor-bits/srs2dge), a game engine that I am planning to rewrite
  - some WGPU projects that aren't public
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xor-bits&layout=compact)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=xor-bits&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/xor-bits/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=xor-bits&layout=compact&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/xor-bits/github-readme-stats#gh-light-mode-only)
